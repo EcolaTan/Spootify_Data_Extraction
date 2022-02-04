@@ -1,5 +1,5 @@
 # Spootify Data Extraction
-A python script that extracts and group data from an old spootify csv file.
+A python script that extracts and group data of a spootify csv file from the year 2018.
 
 # Libraries
 - Pandas
